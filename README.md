@@ -34,7 +34,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
@@ -50,15 +49,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🕹️ Player Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGani-01&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulGani-01&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulGani-01&theme=radical&hide_border=true&background=0d1117&ring=ff2e97&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGani-01&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulGani-01&theme=react-dark&bg_color=0d1117&color=00f0ff&line=ff2e97&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
