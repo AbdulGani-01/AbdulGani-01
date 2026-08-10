@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm AbdulGani 👋</h1>
+<h3 align="center">Game Developer | Unity | C# & C++</h3>
 
-<!--
-**AbdulGani-01/AbdulGani-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+games+with+Unity;Turning+ideas+into+playable+worlds;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎮 Student & aspiring **Game Developer**, passionate about building interactive experiences
+- 🛠️ Currently learning game architecture, physics, and gameplay systems in **Unity**
+- 🌱 Always exploring new mechanics, tools, and design patterns
+- 💬 Ask me about gameplay programming, Unity, or C#/C++
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdul-gani-shaikh-8423a33b2)
+
+---
+
+### 🛠️ Tech Stack
+
+**Engine**
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+### 🎮 Featured Projects
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🚀 Space Shooter | A 2D space shooter game — dodge enemies, blast through waves, and rack up your score | Unity, C# | [Repo](https://github.com/AbdulGani-01/space-shooter) |
+| 🚧 Next Project | More projects coming soon... | Unity, C# | [Repo](#) |
+
+> _Update the Space Shooter link above to match your actual repo name if it's different. Add a screenshot or gameplay GIF here too — it makes a huge difference for game dev profiles._
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGani-01&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulGani-01&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGani-01&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulGani-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
