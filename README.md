@@ -42,7 +42,7 @@
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🚀 Space Shooter | A 2D space shooter game — dodge enemies, blast through waves, and rack up your score | Unity, C# | [Project]([https://github.com/AbdulGani-01/space-shooter](https://github.com/AbdulGani-01/Space-Game.git)) |
+| 🚀 Space Shooter | A 2D space shooter game — dodge enemies, blast through waves, and rack up your score | Unity, C# | [Repo]([https://github.com/AbdulGani-01/space-shooter](https://github.com/AbdulGani-01/Space-Game.git)) |
 | 🚧 Next Project | More projects coming soon... | Unity, C# | [Repo](#) |
 
 > _Update the Space Shooter link above to match your actual repo name if it's different. Add a screenshot or gameplay GIF here too — it makes a huge difference for game dev profiles._
